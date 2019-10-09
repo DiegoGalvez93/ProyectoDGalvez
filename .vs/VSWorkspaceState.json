@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\app",
+    "\\app\\Http\\Controllers",
+    "\\database",
+    "\\database\\migrations",
+    "\\public",
+    "\\resources",
+    "\\resources\\views",
+    "\\routes",
+    "\\storage"
+  ],
+  "SelectedNode": "\\database\\migrations",
+  "PreviewInSolutionExplorer": false
+}
